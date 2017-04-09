@@ -1,10 +1,10 @@
 ---
-whatWeDo: What We Do
+whatWeDo: About Us
 events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: 'The CHICAS Spatial Statistics Reading group is a student-led initiative with the aim of sharing skills, knowledge and solutions to common issues among the postgraduate students of CHICAS. The focus of the group is in spatial statistics, in the widest sense, and its applications to problems of medical sciences. We also welcome anyone who would like to bring topics in infectious disease modelling.'
 activities:
   - title: Skill Sharing
     description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
@@ -15,12 +15,15 @@ activities:
   - title: Community Building
     description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
     icon: fa-group
+  - title: Programming
+    description: 'We meet to implement complex models.'
+    icon: fa-camera-retro
 
 events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
+# leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
 
 notification: Want to be notified of our upcoming events?
