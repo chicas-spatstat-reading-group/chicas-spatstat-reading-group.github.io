@@ -191,7 +191,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
     color: #{{ site.color.primary }};
 }
 
@@ -257,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 1.7em;
+        font-size: 1.4em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -273,7 +274,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 }
 
