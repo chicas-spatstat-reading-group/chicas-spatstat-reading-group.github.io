@@ -27,10 +27,11 @@
                         {% elsif member.photo %}
                         <img src="img/team/{{ member.photo }}" class="img-responsive img-circle" alt="">
 <!-- "/chaconmo/Documents/Repositories/chi&#45;read&#45;group/img/team/emanuele_giorgi.jpg"  -->
-                        <h4>{{ member.name }}</h4>
+                        <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
                         {% else %}
                         <i class="fa fa-user"></i>
-                        <h4>{{ member.name }}</h4>
+                        <!-- <h4>{{ member.name }}</h4> -->
+                        <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
                         {% endif %}
                         <p class="text-muted"><i>{{ member.affiliation }}</i></p>
                         {% if member.interests %}
