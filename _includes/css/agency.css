@@ -248,16 +248,16 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
-        border: 0;
-        background-color: transparent;
+        padding: 8px 0;
+        border 0;
+        background-color: #000;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.7em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -269,17 +269,17 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #000;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
 }
 
 header {
     text-align: center;
-    color: #fff;
+    color: #000;
     background-attachment: scroll;
     background-image: url({{ site.titleBackground }});
     background-position: center center;

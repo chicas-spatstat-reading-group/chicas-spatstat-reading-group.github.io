@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
+titleBackground: "img/5.jpg"
 headlineSmall: "Welcome To Our Reading Group!"
 headlineMain: "Let's Work Together"
 
