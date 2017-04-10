@@ -3,13 +3,24 @@
   github: claudiofronterre
   link: http://chicas.lancaster-university.uk/people/fronterre.html
   interests:
-    - spatio-temporal modelling
-    - computational statistics
+    - Spatio-temporal statistics
+    - Computational statistics
+    - Biostatistics
+
+- name: Emanuele Giorgi
+  affiliation: CHICAS
+  # github: claudiofronterre
+  link: http://chicas.lancaster-university.uk/people/giorgi.html
+  photo: emanuele_giorgi2.jpg
+  interests:
+    - Geostatistics
+    - Spatio-temporal epidemiology
 
 - name: Erick Chacon
   affiliation: CHICAS
   github: ErickChacon
   link: https://erickchacon.github.io/
   interests:
-    - spatio-temporal modelling
-    - computational statistics
+    - Spatio-temporal modelling
+    - Computational statistics
+    # - Complex systems
