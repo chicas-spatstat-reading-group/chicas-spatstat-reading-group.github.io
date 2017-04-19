@@ -24,3 +24,13 @@
     - Spatio-temporal modelling
     - Computational statistics
     # - Complex systems
+
+- name: Olatunji Johnson
+  affiliation: CHICAS
+  # github: ErickChacon
+  link: http://chicas.lancaster-university.uk/people/johnsono.html
+  photo: olatunji2.jpg
+  interests:
+    - Spatio-temporal modelling
+    - Bayesian statistics
+    - Geostatistics
