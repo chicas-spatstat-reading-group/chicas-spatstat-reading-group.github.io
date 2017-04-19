@@ -1,9 +1,0 @@
----
-title: Introduction to sf package
-text: Improve your gis skills on R
-location: Furness LT 2
-link: https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
-date: 2017-07-04
-startTime: '12:00'
-endTime: '16:00'
----
