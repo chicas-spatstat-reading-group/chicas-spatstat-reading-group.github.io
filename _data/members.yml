@@ -34,3 +34,13 @@
     - Spatio-temporal modelling
     - Bayesian statistics
     - Geostatistics
+
+- name: Poppy Miller
+  affiliation: CHICAS
+  # github: ErickChacon
+  link: http://chicas.lancaster-university.uk/people/miller.html
+  photo: poppy.jpg
+  interests:
+    - Bayesian non-parametrics
+    - Spatio-temporal epidemiology
+    - Computational statistics
