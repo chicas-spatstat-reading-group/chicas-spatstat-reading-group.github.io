@@ -25,6 +25,15 @@
     - Computational statistics
     # - Complex systems
 
+- name: Lisa Koeppel
+  affiliation: CHICAS
+  link: http://chicas.lancaster-university.uk/people/koeppel.html
+  photo: lisa.jpg
+  interests:
+    - Infectious disease modelling
+    - Spatio-temporal epidemiology
+    - Computational statistics
+
 - name: Olatunji Johnson
   affiliation: CHICAS
   # github: ErickChacon
@@ -37,10 +46,11 @@
 
 - name: Poppy Miller
   affiliation: CHICAS
-  # github: ErickChacon
   link: http://chicas.lancaster-university.uk/people/miller.html
   photo: poppy.jpg
   interests:
     - Bayesian non-parametrics
     - Spatio-temporal epidemiology
     - Computational statistics
+
+
